@@ -727,7 +727,7 @@ class Tokenizer {
             this.state = DATA_STATE;
             this._emitCurrentToken();
         } else if (isAsciiUpper(cp)) {
-            this.currentToken.tagName += toAsciiLowerChar(cp);
+            this.currentToken.tagName += toChar(cp);
         } else if (cp === $.NULL) {
             this._err(ERR.unexpectedNullCharacter);
             this.currentToken.tagName += unicode.REPLACEMENT_CHARACTER;
