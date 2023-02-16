@@ -1,7 +1,7 @@
 {
     "name": "@jmbpwtw/parse5",
     "description": "HTML parser and serializer.",
-    "version": "6.0.2",
+    "version": "6.0.3",
     "author": "Jose Mari Paglinawan <jom.paglinawan@towerswatson.com> (https://github.com/jmbpwtw)",
     "contributors": "https://github.com/jmbpwtw/parse5/graphs/contributors",
     "homepage": "https://github.com/jmbpwtw/parse5",
