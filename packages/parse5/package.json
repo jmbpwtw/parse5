@@ -1,10 +1,10 @@
 {
-    "name": "parse5",
+    "name": "@jmbpwtw/parse5",
     "description": "HTML parser and serializer.",
     "version": "6.0.2",
-    "author": "Ivan Nikulin <ifaaan@gmail.com> (https://github.com/inikulin)",
-    "contributors": "https://github.com/inikulin/parse5/graphs/contributors",
-    "homepage": "https://github.com/inikulin/parse5",
+    "author": "Jose Mari Paglinawan <jom.paglinawan@towerswatson.com> (https://github.com/jmbpwtw)",
+    "contributors": "https://github.com/jmbpwtw/parse5/graphs/contributors",
+    "homepage": "https://github.com/jmbpwtw/parse5",
     "keywords": [
         "html",
         "parser",
@@ -26,7 +26,7 @@
     "main": "./lib/index.js",
     "repository": {
         "type": "git",
-        "url": "git://github.com/inikulin/parse5.git"
+        "url": "git://github.com/jmbpwtw/parse5.git"
     },
     "files": [
         "lib"
